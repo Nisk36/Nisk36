@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisk36//github.com/anuraghazra/github-readme-stats)
+![Nisk36's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisk36//github.com/Nisk36/github-readme-stats)
 
 https://github-readme-stats.vercel.app/api?username=Nisk36&count_private=true&show_icons=true&theme=compact
 
