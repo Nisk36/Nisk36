@@ -4,7 +4,6 @@
 # [FoxShooting](https://github.com/Nisk36/FoxShooting)
 縦スクロール型のシューティングゲームです。  
 開発は1人で行いました。 
-UnityRoomに公開しています。
 
 # [JumpDump](https://github.com/Nisk36/Hackathon)
 2Dのアクションゲームです。5人で2週間のチーム開発を行い、プログラマ兼リーダーとして参加しました。  
